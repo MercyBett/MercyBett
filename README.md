@@ -1,7 +1,7 @@
 ### Hi there 👋 MJ here 😄 ✨
 
 
-- 🔭 I’m currently working on 
+
 
 - 👯 I’m looking to collaborate on fullstack & data science projects
 
