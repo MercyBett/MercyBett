@@ -8,7 +8,7 @@
 - 💬 Ask me about django & react
 - 📫 How to reach me: merjep551@protonmail.com
 - :computer: Most used line of code `git commit -m "Initial barebones"`
-- 😄 Pronouns: MJ
+- 😄 Sobriquet: MJ
 - ⚡ Fun fact: I stram em strings :guitar:
 
 
