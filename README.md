@@ -1,10 +1,10 @@
 ### Hi there 👋 MJ here 😄 ✨
 
 
-- 🔭 I’m currently working on fintech apps
-- 🌱 I’m currently learning AI & ML
+- 🔭 I’m currently working on 
+
 - 👯 I’m looking to collaborate on fullstack & data science projects
-- 🤔 I’m looking for help with R
+
 - 💬 Ask me about django & react
 - 📫 How to reach me: merjep551@protonmail.com
 - :computer: Most used line of code `git commit -m "Initial barebones"`
